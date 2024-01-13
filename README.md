@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Klara Hanany</h1>
-<h3 align="center">I have a B.Sc degree in information systems</h3>
+<h1 align="center">Hi 👋, my name is Klara Hanany</h1>
+<h3 align="center">I have a B.Sc degree in Information Systems</h3>
 <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Coding" style="width:400px;height:300px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klarahanany&label=Profile%20views&color=0e75b6&style=flat" alt="klarahanany" /> </p>
 
